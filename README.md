@@ -7,6 +7,7 @@
 - Javascript Enthusiastic
 - Passionate about technology, footbal and music.
 - Graduated in Systems Information, Estácio de Sá.
+- Security Proxy master.
 
 
 
